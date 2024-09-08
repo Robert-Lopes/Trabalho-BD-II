@@ -1,2 +1,6 @@
 # Trabalho-BD-II
-Repositório destinado para o organização do trabalho do primeiro bimestre da disciplina de Design e Desenvolvimento de Banco de Dados
+
+## Descrição
+Alunos: Giseli Rosa Lourenço, Guilherme Sousa Fagundes, João Pedro Valladares Araújo e Robert Lopes Terra
+Professor: Jean-Rémi Bourguet
+Turma: CC3M
