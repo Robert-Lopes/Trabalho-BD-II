@@ -12,3 +12,10 @@ As especificações do trabalho passada pelo professor contendo o próposito do 
 ## Documentação do trabalho
 **Fazer documentação!!!!!**
 
+## Acesso ao trabalho
+Para conseguir ter acesso total ao trabalho feito basta ter o git instalado e configurado em sua máquina. Após isso, utilize o comando **git clone** no terminal para clonar o reposiório
+'''git
+
+git clone https://github.com/Robert-Lopes/Trabalho-BD-II.git
+
+'''
